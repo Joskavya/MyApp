@@ -1,0 +1,22 @@
+.body
+{
+    background-color:aquamarine;
+}
+
+.Score
+{
+    font-size:50px;
+    margin-left:20px;
+}
+
+.Time
+{
+    font-size:50px;
+    float:right;
+    margin-right:20px;
+}
+
+.Sketch_to_be_drawn
+{
+    text-color:white;
+}
